@@ -1,0 +1,2 @@
+# Interfacing-UltraSonic-Sensor-with-TIVA-C
+An ultrasonic sensor is a great tool for all kinds of projects that need distance measurements. Obstacle avoidance is one of the examples.  Ultrasonic sensor HC-SR04 is used in this lab to measure distance in the range of 2 cm to 400 cm with an accuracy of 3 mm. The sensor module consists of the control circuit and two ultrasonic sensors — one is the transmitter, another is the receiver.
